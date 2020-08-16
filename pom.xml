@@ -101,5 +101,10 @@
             <version>1.7.25</version>
         </dependency>
     </dependencies>
-    <name>airscan-cli</name>
+
+    <scm>
+        <connection>scm:git:https://github.com/matthiasblaesing/airscan-cli.git</connection>
+        <developerConnection>scm:git:git@github.com:matthiasblaesing/airscan-cli.git</developerConnection>
+        <url>https://github.com/matthiasblaesing/airscan-cli</url>
+    </scm>
 </project>
